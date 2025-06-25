@@ -14,7 +14,7 @@ public class Main {
             System.out.println("i = " + i);
             // hghghghghghg 55555555555555
             /////// 000000007777000000000
-            //kgjgjkjbkjbkjbkbkbkbkjbkbjkbk
+            //ugjgjgjgjgjgjgjgjgjgjg
         }
         // khfk uggkugkugkufkjfkutgliilgk fdg fdg fdgfgdffdgdff 7777777
         // Test+++++++2 000000111111111111111 7777777 77щшрлоло
