@@ -5,15 +5,21 @@ public class Main {
         // Press Alt+Eingabe with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
-
+        int u =0;
         // Press Umschalt+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-
+            //u=100/u;
             // Press Umschalt+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Strg+F8.
             System.out.println("i = " + i);
-            // hghghghghghg
+            // hghghghghghg 55555555555555
+            /////// 000000007777000000000
+            //kgjgjkjbkjbkjbkbkbkbkjbkbjkbk
         }
-        // khfk uggkugkugkufkjfkutgliilgk
+        // khfk uggkugkugkufkjfkutgliilgk fdg fdg fdgfgdffdgdff 7777777
+        // Test+++++++2 000000111111111111111 7777777 77щшрлоло
+        // hgkjh lkjkhg jhv j,h v kjvh
+        // ghghgjgjgkhkjljljljl
+// hk gkjg kjg kjg kj gkj kj  hd2
     }
 }
